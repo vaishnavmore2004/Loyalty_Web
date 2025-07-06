@@ -18,6 +18,7 @@ const rewardsList = [
   
 ];
 
+
 const cardColors = [
   
 ];
